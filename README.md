@@ -1,4 +1,4 @@
-# Meus Estudos de MySQL 🗄️
+# Meus estudos de MySQL 🗄️
 
 Este repositório é onde estou organizando os meus estudos de MySQL. Estou compartilhando os conceitos e comandos que estou aprendendo. O foco aqui é praticar e aprender no meu ritmo, então você não vai encontrar projetos super elaborados, mas vai ver minhas tentativas de fazer o básico bem feito.
 
